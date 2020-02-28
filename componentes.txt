@@ -1,0 +1,4 @@
+COMPONENTES 1: Procesador
+COMPONENTES 2: Memoria principal
+COMPONENTES 3[A[A[D[D[D[[B[[[A[[CE[B[B[[C[C3[A[ 3: Memoria secundaria
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[C[C[C[C
