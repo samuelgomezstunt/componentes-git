@@ -1,1 +1,1 @@
-- Asus, Acer, Xiaomi, Mac, MSI, HP
+Intel, AMD, Gigabyte
