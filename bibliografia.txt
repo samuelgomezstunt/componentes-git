@@ -1,1 +1,3 @@
+- Asus, Acer, Xiaomi, Mac, MSI, HP
+fujitsu, lenovo, samsung
 Intel, AMD, Gigabyte
