@@ -1,3 +1,4 @@
 COMPONENTE1: Procesador
 COMPONENTE2: Memoria principal
-COMPONENTE3: Memoria secundaria
+COMPONENTE3: BIOS
+COMPONENTE4: Memoria secundaria
